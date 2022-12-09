@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yudong He
-- 👀 I’m interested in digital signal processing, especially blind source separation, or known as cocktail party problem.
-- 🌱 I have obtained a bachelor's degree in physics from the University of Science and Technology of China (USTC) in 2017. I’m currently pursuing my PhD at Hong Kong University of Science and Technology (HKUST).
-- 💞️ I plan to graduate in summer 2022 and work as a postdoc at HKUST for one year. I look forward to finding a faculty or postdoc position in summer 2023.
+- 👀 I’m interested in aidop signal processing, especially speech separation, or known as cocktail party problem.
+- 🌱 I obtained my Ph.D. at the Hong Kong University of Science and Technology (HKUST) in 2022. Before I obtained a bachelor's degree in physics from the University of Science and Technology of China (USTC) in 2017.
+- 💞️ I am doing my 1-year postdoc at HKUST. I look forward to finding a faculty or postdoc position in summer 2023.
 - 📫 You can contact me through this email - yhebh@connect.ust.hk. 
 
 <!---
